@@ -77,6 +77,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dipchaudhary947&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
 <br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipchaudhary947&style=flat-square" alt="Profile Views" />
+</div>
+<br>
 <hr style="border: 1px solid #8BC34A; margin-top: 30px; margin-bottom: 30px; border-radius: 5px;">
 
 <p align="center" style="color: #A5D6A7;">
