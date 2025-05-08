@@ -2,18 +2,18 @@
 <h5 align="center" style="color: #8BC34A;">Crafting Mobile Magic with Flutter 🇳🇵 -> 🇹🇭</h5>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=4CAF50&vCenter=true&width=600&lines=Building+Mobile+Apps+with+Flutter;Passionate+about+Clean+and+Simple+Code;Learning+and+Sharing+Knowledge" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=4CAF50&vCenter=true&width=600&lines=Building+Mobile+Apps+with+Flutter;Passionate+about+Clean+and+Simple+Code;Learning+and+Sharing+Knowledge" alt="Typing SVG" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_MODERN_FLUTTER_ANIMATION.gif" width="150" alt="Animated Flutter Logo" />
+  <img src="https://i.imgur.com/YOUR_MODERN_FLUTTER_ANIMATION.gif" width="150" alt="Animated Flutter Logo" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </p>
 
 <br>
 
-<table align="center">
+<table align="center" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="background-color: #f5f5f5; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #689F38; border-bottom: 2px solid #8BC34A; padding-bottom: 5px;">🛠️ My Toolkit:</h3>
       <p>
         I use these tools to build mobile apps:
@@ -28,7 +28,7 @@
         <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /> </a>
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="background-color: #f5f5f5; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #689F38; border-bottom: 2px solid #8BC34A; padding-bottom: 5px;">🔭 My Focus:</h3>
       <p>
         I'm currently: <br><br>
@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="background-color: #f5f5f5; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #689F38; border-bottom: 2px solid #8BC34A; padding-bottom: 5px;">💻 My Tools:</h3>
       <p>
        I use these software: <br><br>
@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="30" />
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="background-color: #f5f5f5; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
         <h3 style="color: #689F38; border-bottom: 2px solid #8BC34A; padding-bottom: 5px;">🌐 Connect with Me:</h3>
         <p>
           You can find me here: <br><br>
@@ -63,10 +63,10 @@
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
 <br>
-<hr style="border: 1px solid #8BC34A; margin-top: 30px; margin-bottom: 30px;">
+<hr style="border: 1px solid #8BC34A; margin-top: 30px; margin-bottom: 30px; border-radius: 5px;">
 
 <p align="center" style="color: #A5D6A7;">
   🌱 I'm always learning and happy to connect! Let's create awesome apps together.
