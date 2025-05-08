@@ -2,9 +2,11 @@
 <h5 align="center">Exploring the Tech Frontier in Thailand 🇹🇭 | From the Heart of Nepal 🇳🇵</h5>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api/text?text=Building%20innovative%20mobile%20experiences&font=Fira%20Code&fontSize=20&color=00ff88&width=550&height=65&align=center" alt="Capsule Text 1" /><br>
-  <img src="https://capsule-render.vercel.app/api/text?text=Passionate%20about%20clean%20%26%20efficient%20code&font=Fira%20Code&fontSize=20&color=00ff88&width=550&height=65&align=center" alt="Capsule Text 2" /><br>
-  <img src="https://capsule-render.vercel.app/api/text?text=Always%20learning%20and%20exploring%20new%20tech&font=Fira%20Code&fontSize=20&color=00ff88&width=550&height=65&align=center" alt="Capsule Text 3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6CC644&vCenter=true&width=435&lines=Building+innovative+mobile+experiences;Passionate+about+clean+and+efficient+code;Always+learning+and+exploring+new+tech" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLcUqkZh3xqG/giphy.gif" width="200" alt="Modern Coding Animation" />
 </p>
 
 ### 🛠️ Tech Stack:
