@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLcUqkZh3xqG/giphy.gif" width="200" alt="Modern Coding Animation" />
+  <img src="https://media.giphy.com/media/dWesBcTLcUqkZh3xqG/giphy.gif" width="100" alt="Modern Coding Animation" />
 </p>
 
 ### 🛠️ Tech Stack:
