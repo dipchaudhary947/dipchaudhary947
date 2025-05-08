@@ -63,10 +63,10 @@
   <td valign="top" width="100%" colspan="2" style="background-color: #f5f5f5; border-radius: 10px; padding: 20px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #689F38; border-bottom: 2px solid #8BC34A; padding-bottom: 5px;">🔥 My Top Languages:</h3>
       <p align="center">
-        <a href="https://dart.dev/" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="30" /> </a>
-        <a href="https://www.w3.org/html/" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" /> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" /> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" /> </a>
+        <a href="https://dart.dev/" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/Dart-1st-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="30" /> </a>
+        <a href="https://www.w3.org/html/" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/HTML5-2nd-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" /> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/CSS3-3rd-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" /> </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 10px;"> <img src="https://img.shields.io/badge/JavaScript-4th-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" /> </a>
       </p>
     </td>
   </tr>
