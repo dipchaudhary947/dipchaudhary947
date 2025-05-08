@@ -81,6 +81,10 @@
   <img src="https://komarev.com/ghpvc/?username=dipchaudhary947&style=flat-square" alt="Profile Views" />
 </div>
 <br>
+<div align="center">
+     <img src="https://img.shields.io/badge/Status-Online-brightgreen" alt="Online Status" />
+</div>
+<br>
 <hr style="border: 1px solid #8BC34A; margin-top: 30px; margin-bottom: 30px; border-radius: 5px;">
 
 <p align="center" style="color: #A5D6A7;">
