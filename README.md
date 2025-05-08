@@ -26,6 +26,26 @@
 <a href="https://www.facebook.com/deep.xhy?locale=th_TH" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
+### ⚡ Coding Activity:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Activity-Very%20Active-brightgreen?style=for-the-badge" alt="Activity Level - Very Active">
+</p>
+
+### 💻 Frequently Used Programs:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  </p>
+
+### 🏆 Estimated "Grade" (Based on Recent Commits):
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Commit%20Intensity-A-%2399cc33?style=for-the-badge" alt="Commit Intensity - A">
+</p>
+
 <hr>
 
 <p align="center">
