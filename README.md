@@ -1,4 +1,4 @@
-# ✨ Dip Chaudhary | Flutter Mobile Alchemist 🚀  
+# ✨ Dip Chaudhary | Flutter Mobile D🕯️P 🚀  
 ### Crafting Mobile Magic with Flutter 🇳🇵 → 🇹🇭  
 
 ---
@@ -32,13 +32,39 @@
 ## 💻 Tools I Use
 - 🧑‍💻 VS Code  
 - 📱 Android Studio  
-- 🧠 IntelliJ IDEA  
+- 🐙 GitHub  
 
 ---
 
-## 📈 Active Timeline
-```text
-2024 ───────── Started Flutter Journey 🚀  
-2025 ───────── Built Multiple Apps & Learned Firebase 🔥  
-2026 ───────── Mastering Riverpod + Supabase ⚡  
-Future ─────── Building Scalable Production Apps 🏗️  
+## 🇳🇵 Learn Nepali App
+
+Learn Nepali faster with structured lessons and smart categories. Designed for beginners, the app delivers a simple, engaging experience that makes language learning consistent and effective.
+
+- 📚 Learn Nepali language basics  
+- 🎯 Beginner-friendly lessons  
+- 🗂️ Organized lessons & categories  
+- 📱 Clean Flutter UI  
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1fAn99-pSyUxAZQSRsm_njatLqMnrMIUf/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-APK-4CAF50?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+</p>
+🔗 https://github.com/dipchaudhary947/learn_nepali
+---
+
+## ✅ DooIt App
+
+Stay productive with a fast, distraction-free task manager. DooIt helps you organize, track, and complete daily tasks efficiently with a clean, smooth user experience.
+
+- 📋 Task & productivity management  
+- ⚡ Simple and fast UI  
+- 📊 Track daily tasks easily  
+- 🎯 Focused, distraction-free experience  
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Rqg14L2fHGbAPybOFqXZni8PKVphQqx7/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-APK-2196F3?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+</p>
+🔗 https://github.com/dipchaudhary947/DooIt
