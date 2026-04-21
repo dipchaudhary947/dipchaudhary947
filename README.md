@@ -1,4 +1,4 @@
-# ✨ Dip Chaudhary | Flutter Mobile D🕯️P 🚀  
+# ✨ D🕯️P Chaudhary | Flutter Mobile Dev 🚀  
 ### Crafting Mobile Magic with Flutter 🇳🇵 → 🇹🇭  
 
 ---
