@@ -1,70 +1,80 @@
-# ✨ D🕯️P Chaudhary | Flutter Mobile Dev 🚀  
-### Crafting Mobile Magic with Flutter 🇳🇵 → 🇹🇭  
+# ✨ D🕯️P Chaudhary | Golang Backend Developer 🚀
+### Building Scalable Backend Systems with Go 🇳🇵 → 🇹🇭
 
 ---
 
 ## 🚀 About Me
-- 📱 Flutter Mobile Developer  
-- ⚡ Focused on **performance & clean architecture**  
-- 🔥 Learning **Riverpod + Scalable App Structure**  
-- 🌱 Always building, always improving  
+
+- 💻 Junior Backend Developer specializing in **Go (Golang)**
+- ⚡ Building efficient, scalable, and reliable backend systems
+- 🔥 Focused on **REST API Development & Backend Architecture**
+- 🌱 Learning advanced Go concepts and database optimization
+- 🎯 Passionate about solving problems through clean and maintainable code
 
 ---
 
 ## 🛠️ Tech Stack
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🔭 Current Focus
-- ⚙️ Flutter Performance Optimization  
-- 🧠 Advanced State Management (Riverpod)  
-- ☁️ Real-time Apps with Supabase  
-- 🏗️ Clean Architecture (MVVM + Feature-first)  
+
+- 🚀 Backend Development with Go (Golang)
+- ⚙️ Building RESTful APIs using Gin
+- 🗄️ Database Management with PostgreSQL & MongoDB
+- 🔐 Authentication & Authorization using JWT
+- 🏗️ Clean Code & Scalable Backend Architecture
+- 📡 API Integration and Error Handling
 
 ---
 
 ## 💻 Tools I Use
-- 🧑‍💻 VS Code  
-- 📱 Android Studio  
-- 🐙 GitHub  
+
+- 🧑‍💻 VS Code
+- 🗄️ MongoDB Compass
+- 🐘 PostgreSQL
+- 🐙 Git & GitHub
+- 🔧 Postman
+- 🖥️ GoLand
 
 ---
 
-## 🇳🇵 Learn Nepali App
+## 🎬 MagicStream Movies – Backend Project
 
-Learn Nepali faster with structured lessons and smart categories. Designed for beginners, the app delivers a simple, engaging experience that makes language learning consistent and effective.
+A Go-powered movie backend system designed to manage movie data and provide RESTful APIs for movie-related operations.
 
-- 📚 Learn Nepali language basics  
-- 🎯 Beginner-friendly lessons  
-- 🗂️ Organized lessons & categories  
-- 📱 Clean Flutter UI  
+- 🚀 Backend development using Go (Golang)
+- ⚡ REST API development with Gin Framework
+- 🗄️ MongoDB database integration
+- 🔐 JWT-based authentication
+- 🎯 Movie management and recommendation features
+- 🏗️ Structured backend code and API development
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1fAn99-pSyUxAZQSRsm_njatLqMnrMIUf/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download-APK-4CAF50?style=for-the-badge&logo=android&logoColor=white"/>
-  </a>
-</p>
-🔗 https://github.com/dipchaudhary947/learn_nepali
+🔗 **GitHub:** https://github.com/dipchaudhary947/MagicStreamMovies
+
 ---
 
-## ✅ DooIt App
+## 📊 GitHub Stats
 
-Stay productive with a fast, distraction-free task manager. DooIt helps you organize, track, and complete daily tasks efficiently with a clean, smooth user experience.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipchaudhary947&show_icons=true&theme=tokyonight)
 
-- 📋 Task & productivity management  
-- ⚡ Simple and fast UI  
-- 📊 Track daily tasks easily  
-- 🎯 Focused, distraction-free experience  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipchaudhary947&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1Rqg14L2fHGbAPybOFqXZni8PKVphQqx7/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download-APK-2196F3?style=for-the-badge&logo=android&logoColor=white"/>
-  </a>
-</p>
-🔗 https://github.com/dipchaudhary947/DooIt
+---
+
+## 🤝 Let's Connect
+
+- 💻 GitHub: https://github.com/dipchaudhary947
+
+### 💬 "Building the logic behind great applications, one API at a time."
+
