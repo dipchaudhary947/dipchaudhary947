@@ -17,7 +17,6 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,12 +40,11 @@
 ## 💻 Tools I Use
 
 - 🧑‍💻 VS Code
-- 🗄️ MongoDB Compass
+- 🗄️ MongoDB Compass || SQLite
 - 🐘 PostgreSQL
 - 🐙 Git & GitHub
 - 🔧 Postman
-- 🖥️ GoLand
-
+  
 ---
 
 ## 🎬 MagicStream Movies – Backend Project
